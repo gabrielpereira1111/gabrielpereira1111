@@ -2,7 +2,11 @@
 
 ##
 
-<div align="center">
+<div>
+  <p>
+    Meu nome é Gabriel, tenho 19 anos, e busco por oportunidades como desenvolvedor. Sou formado pela Escola SENAI de Informática nos cursos técnicos em Desenvolvimento de Sistemas e em Redes de Computadores.
+  </p>
+  
   <a href="https://github.com/gabrielpereira1111" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpereira1111&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpereira1111&layout=compact&langs_count=16&theme=dark"/>
